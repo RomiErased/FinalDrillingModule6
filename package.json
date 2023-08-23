@@ -1,0 +1,27 @@
+{
+  "name": "finaldrillingmodule6",
+  "version": "1.0.0",
+  "description": "Ejercicio final de Módulo 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomiErased/FinalDrillingModule6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomiErased/FinalDrillingModule6/issues"
+  },
+  "homepage": "https://github.com/RomiErased/FinalDrillingModule6#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
